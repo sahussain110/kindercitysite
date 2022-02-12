@@ -1,0 +1,32 @@
+body {
+    font-family: "Lemonada", cursive;
+}
+
+h1, h2, h3 {
+    font-family: "Shizuru", cursive;
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+footer {
+    background-image: linear-gradient(#a7d9f7, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #37a0dd, #c5af30, #cf0ae9);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
